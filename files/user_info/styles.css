@@ -66,3 +66,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u77 {
+  position:absolute;
+  left:0px;
+  top:1577px;
+  width:980px;
+  height:123px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
